@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Felipe Maldonado (@felipeee-mg)<br>👀 I’m interested in Data Science topics<br>🌱 I’m currently learning technologies focused on data science and data analitycs (ML algorithms, Tableau, PowerBI)<br>📫 You can reach me on my LinkedIn profile: https://www.linkedin.com/in/felipe-maldonado-gomez/
+*👋 Hi, I’m Felipe Maldonado (@felipeee-mg)<br>*👀 I’m interested in Data Science topics<br>*🌱 I’m currently learning technologies focused on data science and data analitycs (ML algorithms, Tableau, PowerBI)<br>*📫 You can reach me on my LinkedIn profile: https://www.linkedin.com/in/felipe-maldonado-gomez/
 
 
 ## 🌐 Socials:
